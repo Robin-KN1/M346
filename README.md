@@ -1,4 +1,4 @@
-# Iaas, PaaS, SaaS
+Iaas, PaaS, SaaS
 
 IaaS (Infrastructure as a Service):
   Anbieter stellt Infrastruktur wie Server, Speicher, Netzwerk bereit.
