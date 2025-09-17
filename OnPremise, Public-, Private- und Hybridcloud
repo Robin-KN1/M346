@@ -1,18 +1,13 @@
 # OnPremise, Public-, Private- und Hybridcloud
 
 On-Premise:
-  Alles läuft auf eigener Hardware im Unternehmen.
-  Volle Kontrolle, aber hohe Kosten & Wartungsaufwand.
+  Alles läuft auf eigener Hardware im Unternehmen. Man hat volle Kontrolle, aber hohe Kosten & Wartungsaufwand.
   
 Public Cloud:
-  Dienste laufen auf Servern des Anbieters, von vielen Kunden geteilt.
-  Günstig, flexibel, skalierbar, aber weniger Kontrolle.
+  Dienste laufen auf Servern des Anbieters und werden von vielen Kunden geteilt. Dafür aber Günstig, flexibel, skalierbar, jedoch weniger Kontrolle.
 
 Private Cloud:
-  Cloud-Umgebung nur für ein Unternehmen (intern oder extern betrieben).
-  Mehr Sicherheit und Kontrolle, aber höhere Kosten.
+  Cloud-Umgebung nur für ein Unternehmen egal ob intern oder extern. Man hat mehr Sicherheit und Kontrolle, aber auch höhere Kosten.
 
 Hybrid Cloud:
-  Kombination aus Public und Private Cloud.
-  Kritische Daten/Anwendungen in der Private Cloud, andere in der Public Cloud.
-  Flexibel und sicher, aber komplex in der Verwaltung.
+  Ist eine Kombination aus Public und Private Cloud. Kritische Daten/Anwendungen sind in der Private Cloud und die anderen in der Public Cloud. Es ist Flexibel und sicher, aber komplex in der Verwaltung.
