@@ -1,0 +1,1 @@
+"Nico hat diese Zeile von seinem lokalen Rechner auf das Git Commited" 
